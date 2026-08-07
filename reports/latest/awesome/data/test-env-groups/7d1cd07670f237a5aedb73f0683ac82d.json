@@ -1,0 +1,1 @@
+{"id":"7d1cd07670f237a5aedb73f0683ac82d","fullName":"dev.reference.app.repository.UserRepositoryTest.findByUsernameReturnsSavedUser","name":"findByUsername returns the saved user with generated id and created_at","status":"passed","testResultsByEnv":{"default":"4dd93906f30e9e70c787b85df8e4cfbe"}}

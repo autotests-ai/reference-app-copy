@@ -1,0 +1,1 @@
+{"id":"22865b5e85d3c7fc479625cd44e84098","fullName":"dev.reference.app.repository.UserRepositoryTest.findByUsernameEmptyForUnknownUser","name":"findByUsername is empty for an unknown user","status":"passed","testResultsByEnv":{"default":"69159d15f413d4b068d5eda7a4d05d7d"}}
