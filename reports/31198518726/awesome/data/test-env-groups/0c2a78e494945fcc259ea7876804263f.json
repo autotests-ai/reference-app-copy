@@ -1,0 +1,1 @@
+{"id":"0c2a78e494945fcc259ea7876804263f","fullName":"dev.reference.app.config.CorsConfigTest.sameHostUsesHostHeader","name":"sameHost matches Origin host to the Host header","status":"passed","testResultsByEnv":{"default":"2bc6e89ef77cf3879e31f01b410a6568"}}

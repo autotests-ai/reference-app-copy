@@ -1,0 +1,1 @@
+{"id":"accc39f5ed727261a92da5460a96a446","fullName":"tests.integration.SeedDataIntegrationTests.seededItemsAreReadyAfterDeploy","name":"Flyway seed items Alpha, Beta, Gamma are present in PostgreSQL","status":"passed","testResultsByEnv":{"default":"2636783a4deea7f13b8ce2daac30d188"}}

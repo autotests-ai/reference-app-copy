@@ -1,0 +1,1 @@
+{"id":"1332e73b0f4a74545b28767c7a3b8987","fullName":"dev.reference.app.config.CorsConfigTest.apiCorsAllowsSameHostOrigin","name":"admits the deployment host when Origin matches the request Host","status":"passed","testResultsByEnv":{"default":"1a6017e606ca6853aca469f52d0ecd87"}}

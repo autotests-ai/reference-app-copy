@@ -1,0 +1,1 @@
+{"id":"08bd9df56c24dcde515a93eb2325f783","fullName":"dev.reference.app.controller.AuthControllerTest.registerDuplicateUsername","name":"POST /api/auth/register maps duplicate username to 409","status":"passed","testResultsByEnv":{"default":"b11f149e8b2c82e51753e3693ee7c001"}}

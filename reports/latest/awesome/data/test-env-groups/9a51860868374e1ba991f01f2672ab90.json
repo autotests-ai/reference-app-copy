@@ -1,0 +1,1 @@
+{"id":"9a51860868374e1ba991f01f2672ab90","fullName":"dev.reference.app.config.CorsConfigTest.apiCorsChecksOrigin","name":"admits a configured dev server origin and rejects an unknown one","status":"passed","testResultsByEnv":{"default":"c538fe2f475540860ac0191309c8ce3c"}}

@@ -1,0 +1,1 @@
+{"id":"406b49012bc650edc64e75a0493edcde","fullName":"dev.reference.app.controller.AuthControllerTest.registerRejectsUnreadableBody","name":"POST /api/auth/register rejects an unreadable body with 400","status":"passed","testResultsByEnv":{"default":"67b1ddd58fe8b51fe7faed81225f388f"}}

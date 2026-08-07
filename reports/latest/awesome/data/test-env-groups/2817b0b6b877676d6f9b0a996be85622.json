@@ -1,0 +1,1 @@
+{"id":"2817b0b6b877676d6f9b0a996be85622","fullName":"dev.reference.app.controller.AuthControllerTest.registerReturnsCreated","name":"POST /api/auth/register returns 201","status":"passed","testResultsByEnv":{"default":"e28488a87c0622d1ae263751f11f669c"}}

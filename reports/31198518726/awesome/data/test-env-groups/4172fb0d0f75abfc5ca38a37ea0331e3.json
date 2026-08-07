@@ -1,0 +1,1 @@
+{"id":"4172fb0d0f75abfc5ca38a37ea0331e3","fullName":"tests.integration.SeedDataIntegrationTests.seededUserIsReadyAfterDeploy","name":"Flyway seed user user1 is present and can authenticate","status":"passed","testResultsByEnv":{"default":"d59dbf344881147fd39622067e093c23"}}

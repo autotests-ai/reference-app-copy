@@ -1,0 +1,1 @@
+{"id":"b02fc70476b845220b52a5f377cbf7a2","fullName":"tests.integration.AuthRoundTripIntegrationTests.registerLoginProfileLogoutRoundTrip","name":"register → login → me → logout survives separate HTTP requests (DB + JWT wired)","status":"passed","testResultsByEnv":{"default":"53ec2bd5f97f784a77f58085ec0dac24"}}
