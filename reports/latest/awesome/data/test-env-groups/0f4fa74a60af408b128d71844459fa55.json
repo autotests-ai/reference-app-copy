@@ -1,0 +1,1 @@
+{"id":"0f4fa74a60af408b128d71844459fa55","fullName":"frontend-typescript-vanilla:src/test/pages/register.test.ts#register page rejects mismatched passwords without calling the API","name":"rejects mismatched passwords without calling the API","status":"passed","testResultsByEnv":{"default":"67455f9e9da53e2e700c9e3f08ac27c4"}}

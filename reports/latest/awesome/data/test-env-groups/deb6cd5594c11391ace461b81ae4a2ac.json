@@ -1,0 +1,1 @@
+{"id":"deb6cd5594c11391ace461b81ae4a2ac","fullName":"frontend-typescript-angular:src/test/lib/auth.test.ts#session teardown logout clears the stored token even when the API call fails","name":"logout clears the stored token even when the API call fails","status":"passed","testResultsByEnv":{"default":"d4a3e2b64ef644dabf1182468b557260"}}

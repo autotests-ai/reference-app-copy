@@ -1,0 +1,1 @@
+{"id":"495425426032148844e2b36b2d005e5e","fullName":"frontend-javascript-vue:src/test/lib/auth.test.js#session teardown logout clears the stored token even when the API call fails","name":"logout clears the stored token even when the API call fails","status":"passed","testResultsByEnv":{"default":"76007c88f85bf12f73f2c09e13633c6b"}}

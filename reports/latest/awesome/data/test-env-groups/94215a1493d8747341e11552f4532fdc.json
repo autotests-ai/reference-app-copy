@@ -1,0 +1,1 @@
+{"id":"94215a1493d8747341e11552f4532fdc","fullName":"frontend-typescript-jquery:src/test/auth.test.ts#deleteAccount clears the stored token when the network call fails","name":"clears the stored token when the network call fails","status":"passed","testResultsByEnv":{"default":"ae2c15f39e11941a06d7a3b3c6c0888e"}}
